@@ -14,8 +14,8 @@ export const state = () => ({
   siteTags: null,
   siteAuthors: null,
   ghost: null,
-  ghostUrl: 'https://demo.ghost.io',
-  ghostKey: '22444f78447824223cefc48062',
+  ghostUrl: 'http://localhost:2368',
+  ghostKey: '60f789fde088de52dda7d8f515',
   ghostVersion: 'v3',
   ghostPostPerPage: [
     'id',

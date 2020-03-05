@@ -17,8 +17,8 @@ const postIndexFields = [
 ]
 
 const ghost = new GhostContentAPI({
-  url: 'https://demo.ghost.io',
-  key: '22444f78447824223cefc48062',
+  url: 'http://localhost:2368',
+  key: '60f789fde088de52dda7d8f515',
   version: 'v3'
 })
 

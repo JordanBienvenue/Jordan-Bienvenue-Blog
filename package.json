@@ -2,7 +2,7 @@
   "name": "boo",
   "version": "1.0.0",
   "description": "A starter theme for headless Ghost CMS",
-  "author": "Sandeep Ramgolam",
+  "author": "Jordan Bienvenue",
   "private": true,
   "scripts": {
     "dev": "nuxt --port 6001",
